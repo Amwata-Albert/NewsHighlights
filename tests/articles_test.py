@@ -2,7 +2,6 @@ import unittest
 
 from app.models import Articles
 
-
 class MyTestCase(unittest.TestCase):
     def setUp(self):
         self.new_article = Articles()

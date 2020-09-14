@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Setup
 Clone the repository
 
-    git clone https://github.com/kamauvick/NewsHighlights.git
+    git clone https://github.com/Amwata-Albert/NewsHighlights
 
     cd NewsHighlights
 
@@ -28,4 +28,4 @@ Clone the repository
 4.  As a user, I would want to click on an article and read the full article on the source website.
 
 ## License
-MIT &COPY; VICK 2019
+MIT &COPY; Amwata 2019
